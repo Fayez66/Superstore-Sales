@@ -62,3 +62,32 @@ The superstore sales data contains the details of the sales of the superstore fo
 - Fayez Abdelmaksoud Elsaid
 - Our instructor: Sara Besher
 - Usage for graduation project for Digital Egypt Pioneers Initiative - DEPI
+
+## How to Install
+
+To install the necessary libraries for this project, you can use the following commands:
+
+```bash
+pip install pandas numpy seaborn matplotlib
+```
+
+Make sure you have Python and pip installed on your system. You can check the installation by running:
+
+```bash
+python --version
+pip --version
+```
+
+## How to Clone the Repository
+
+To clone the repository, use the following command:
+
+```bash
+git clone https://github.com/yourusername/Superstore-Sales.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd Superstore-Sales
+```
