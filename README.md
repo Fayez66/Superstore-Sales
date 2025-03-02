@@ -83,7 +83,7 @@ pip --version
 To clone the repository, use the following command:
 
 ```bash
-git clone https://github.com/yourusername/Superstore-Sales.git
+git clone https://github.com/saif131/Superstore-Sales.git
 ```
 
 Navigate to the project directory:
